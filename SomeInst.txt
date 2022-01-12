@@ -1,0 +1,4 @@
+1. cd into location
+2. conda env create -f nlp_course_env.yml
+3. conda activate nlp_course
+   conda deactivate
